@@ -1,7 +1,6 @@
 # ADA1---Metodos-de-Ordenamiento
 Burbuja
 - En qué consiste cada ejercicio
-- 
 R = En estos ejercicios tienen como objetivo ordenar listas de elementos que son ingresados por el usuario mediante el método de ordenamiento por burbuja. En ambos casos, el programa solicita al usuario que ingrese una lista de elementos (números en el primero y nombres con el otro) y luego los organiza en orden mostrando cada intercambio que ocurre durante el proceso de ordenamiento. 
 En la Función de Ordenamiento burbuja(lista) se implementa el algoritmo de ordenamiento por burbuja, es decir, recibe una lista como argumento y utiliza dos bucles for para ordenar los elementos. En el Primer bucle (for i in range(n - 1)) es donde se controla el número de pasadas necesarias para completar el ordenamiento. El segundo bucle (for j in range(n - 1 - i)) es donde se comparan los elementos adyacentes. La variable j itera sobre los elementos de la lista. En cada iteración, se compara el elemento en la posición j con el siguiente elemento en la posición j + 1. Si el elemento en la posición j es mayor que el elemento en la posición j + 1, se intercambian. Se realiza el intercambio de elementos mediante la instrucción lista[j], lista[j + 1] = lista[j + 1], lista[j], que permite que el elemento mayor se desplace hacia la derecha y el menor hacia la izquierda.
 - Por qué usa ese método de ordenamiento
