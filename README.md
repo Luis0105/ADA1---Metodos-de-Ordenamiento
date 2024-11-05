@@ -22,6 +22,7 @@ La entrada de datos en ambos programas, es donde se solicita al usuario que ingr
 
 R = Se eligió el método de inserción por su simplicidad y efectividad al ordenar listas pequeñas. Este algoritmo es intuitivo y fácil de seguir, es decir, al mostrar el estado de la lista después de cada inserción, se puede visualizar cómo se reorganizan los elementos en la lista. El método de inserción permite observar claramente cómo se mueven los elementos en la lista y cómo se van colocando en su posición correcta, lo que lo convierte en una herramienta eficaz.
 - Si sé pudiera resolver de modo más eficiente con otro método de ordenamiento
+
 R = Sí, estos ejercicios podrían resolverse de forma más eficiente utilizando métodos de ordenamiento más avanzados, como Quick Sort o Merge Sort. Estos métodos son más rápidos, con una complejidad promedio de O( nIog n ) en lugar de O(〖 n〗^2  ), que es la del método de burbuja. Para listas pequeñas, la diferencia de rendimiento no es significativa, pero para listas más grandes, los métodos como Quick Sort o Merge Sort ofrecen un procesamiento mucho más rápido.
 - Y al final dará sus conclusiones
 
