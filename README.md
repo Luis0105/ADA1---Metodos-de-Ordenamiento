@@ -11,6 +11,7 @@ R = Se ha utilizado el método de burbuja en estos ejercicios porque es sencillo
 
 R = Sí, estos ejercicios podrían resolverse de forma más eficiente utilizando métodos de ordenamiento más avanzados, como Quick Sort o Merge Sort. Estos métodos son más rápidos, con una complejidad promedio de O( nIog n ) en lugar de O(〖 n〗^2  ). Para listas pequeñas, la diferencia de rendimiento no es significativa, pero para listas más grandes, los métodos como Quick Sort o Merge Sort ofrecen un procesamiento mucho más rápido.
 - Conclusiones
+
 R = En conclusión, el método de burbuja es una opción que es eficiente para estos ejercicios, ya que es fácil de entender y permite observar cada paso del ordenamiento. Sin embargo, este método no es eficiente para listas grandes y no es ideal para aplicaciones que requieran un alto rendimiento. 
 
 Por Inserción
@@ -24,7 +25,7 @@ R = Se eligió el método de inserción por su simplicidad y efectividad al orde
 - Si sé pudiera resolver de modo más eficiente con otro método de ordenamiento
 
 R = Sí, estos ejercicios podrían resolverse de forma más eficiente utilizando métodos de ordenamiento más avanzados, como Quick Sort o Merge Sort. Estos métodos son más rápidos, con una complejidad promedio de O( nIog n ) en lugar de O(〖 n〗^2  ), que es la del método de burbuja. Para listas pequeñas, la diferencia de rendimiento no es significativa, pero para listas más grandes, los métodos como Quick Sort o Merge Sort ofrecen un procesamiento mucho más rápido.
-- Y al final dará sus conclusiones
+- Conclusiones
 
 R = En conclusión, el método de inserción es una opción para ordenar listas pequeñas y para ilustrar cómo funcionan los algoritmos de ordenamiento. Su implementación sencilla y la posibilidad de observar cada paso hacen que sea una herramienta valiosa en la enseñanza de la programación y el análisis de algoritmos. Si bien no es el más eficiente para listas grandes, proporciona una base excelente para entender conceptos de ordenamiento y algoritmos en general. Para situaciones que requieren un rendimiento superior con listas más extensas, se recomienda utilizar métodos más avanzados como Quick Sort o Merge Sort. 
 
@@ -39,6 +40,6 @@ R = El método de selección es adecuado para estos ejercicios porque es fácil 
 - Si sé pudiera resolver de modo más eficiente con otro método de ordenamiento
 
 R = Sí, el método de selección tiene una complejidad de O( n^2  ), lo que lo hace ineficiente para listas grandes. Se podrían utilizar métodos de ordenamiento más avanzados, como Quick Sort o Merge Sort, que tienen una complejidad promedio de O( nIog n). Estos métodos son más adecuados para listas grandes debido a su mayor eficiencia. Sin embargo, para listas pequeñas, la diferencia en el tiempo de ejecución puede no ser significativa.
-- Y al final dará sus conclusiones
+- Conclusiones
 
 R = En conclusión, el método de selección es un recurso valioso para sobre el concepto de ordenamiento debido a su claridad y simplicidad. Permite visualizar el proceso de selección e intercambio de elementos. Sin embargo, para aplicaciones prácticas que requieren un alto rendimiento, es preferible optar por métodos más avanzados como Quick Sort o Merge Sort. Estos métodos no solo reducen el tiempo de ejecución, sino que también se adaptan mejor a las complejidades del manejo de grandes volúmenes de datos, pero a pesar de ello para listas pequeñas funciona excelente, 
